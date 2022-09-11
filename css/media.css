@@ -1,0 +1,306 @@
+@media (max-width: 575px) {
+    .nav-link:hover::after {
+        top: 20px;
+        width: 68%;
+    }
+
+    .navbar-nav .nav-link {
+        padding-top: 30px;
+    }
+
+    .navbar-nav {
+        padding-bottom: 30px;
+    }
+
+    #banner {
+        padding-top: 50px;
+        padding-bottom: 22px;
+    }
+
+    #banner .ban-txt p {
+        padding: 20px 20px 28px 0px;
+    }
+
+    #banner .ban-txt {
+        padding-bottom: 50px;
+    }
+
+    #green-bg {
+        padding-top: 184px;
+    }
+
+    #collab .collab-item .collab-card {
+        margin-top: 20px;
+    }
+
+    #collab .collab-item::after {
+        content: '';
+        position: absolute;
+        top: 25%;
+        left: 3%;
+    }
+
+    #collab .collab-item::before {
+        content: '';
+        position: absolute;
+        top: 25%;
+        left: 3%;
+    }
+
+    #schedule .px-5 {
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+
+    #progress .item .number {
+        margin-left: 15px;
+        margin-bottom: 20px;
+        width: 40px;
+        height: 40px;
+    }
+
+    #progress .item .txt {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    #progress .right {
+        padding-top: 30px;
+    }
+
+    #progress {
+        padding: 90px 0px 80px 0px;
+    }
+
+    #customer .heading h3 {
+        padding: 0px 0px;
+    }
+
+    #customer {
+        overflow-x: hidden;
+    }
+
+    #customer img {
+        position: absolute;
+        top: -72px;
+        left: -37px;
+    }
+
+    #Download .down-bg {
+        padding: 40px 0px 0px 10px;
+    }
+
+    #Download .down-bg .left {
+        padding-bottom: 40px;
+    }
+
+    #Download .right p {
+        padding-right: 6px;
+    }
+
+    #collab .collab-item .collab-card p {
+        padding: 0px 45px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .nav-link:hover::after {
+        top: 20px;
+        width: 68%;
+    }
+
+    .navbar-nav .nav-link {
+        padding-top: 30px;
+    }
+
+    .navbar-nav {
+        padding-bottom: 30px;
+    }
+
+    #banner {
+        padding-top: 50px;
+        padding-bottom: 22px;
+    }
+
+    #banner .ban-txt p {
+        padding: 20px 20px 28px 0px;
+    }
+
+    #banner .ban-txt {
+        padding-bottom: 50px;
+    }
+
+    #green-bg {
+        padding-top: 184px;
+    }
+
+    #collab .collab-item .collab-card {
+        margin-top: 20px;
+    }
+
+    #collab .collab-item .collab-card p {
+        padding: 0px 40px;
+    }
+
+    #collab .collab-item::after {
+        content: '';
+        position: absolute;
+        top: 25%;
+        left: 3%;
+    }
+
+    #collab .collab-item::before {
+        content: '';
+        position: absolute;
+        top: 25%;
+        left: 3%;
+    }
+
+
+
+    #progress .item .number {
+        margin-left: 15px;
+        margin-bottom: 20px;
+        width: 40px;
+        height: 40px;
+    }
+
+    #progress .item .txt {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    #progress .right {
+        padding-top: 30px;
+    }
+
+    #progress {
+        padding: 90px 0px 80px 0px;
+    }
+
+    #customer .heading h3 {
+        padding: 0px 55px;
+    }
+
+    #customer {
+        overflow-x: hidden;
+    }
+
+    #customer img {
+        position: absolute;
+        top: -36px;
+        left: -8px;
+    }
+
+    #Download .down-bg {
+        padding: 40px 0px 20px 30px;
+    }
+
+    #Download .down-bg .left {
+        padding-bottom: 40px;
+    }
+
+    #Download .right p {
+        padding-right: 6px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .nav-link:hover::after {
+        top: 20px;
+        width: 68%;
+    }
+
+    .navbar-nav .nav-link {
+        padding-top: 30px;
+    }
+
+    .navbar-nav {
+        padding-bottom: 30px;
+    }
+
+    #banner {
+        padding-top: 50px;
+        padding-bottom: 22px;
+    }
+
+    #banner .ban-txt p {
+        padding: 20px 20px 28px 0px;
+    }
+
+    #banner .ban-txt {
+        padding-bottom: 50px;
+    }
+
+    #green-bg {
+        padding-top: 184px;
+    }
+
+    #collab .collab-item .collab-card p {
+        padding: 0px 120px;
+    }
+
+    #collab .collab-item .collab-card {
+        margin-top: 20px;
+    }
+
+    #collab .collab-item::after {
+        content: '';
+        position: absolute;
+        top: 25%;
+        left: 3%;
+    }
+
+    #collab .collab-item::before {
+        content: '';
+        position: absolute;
+        top: 25%;
+        left: 3%;
+    }
+
+    #progress .item .number {
+        margin-left: 15px;
+        margin-bottom: 20px;
+        width: 40px;
+        height: 40px;
+    }
+
+    #progress .item .txt {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    #progress .right {
+        padding-top: 30px;
+    }
+
+    #progress {
+        padding: 90px 0px 80px 0px;
+    }
+
+    #customer .heading h3 {
+        padding: 0px 55px;
+    }
+
+    #customer {
+        overflow-x: hidden;
+    }
+
+    #customer img {
+        position: absolute;
+        top: -36px;
+        left: -8px;
+    }
+
+    #Download .down-bg {
+        padding: 40px 0px 20px 30px;
+    }
+
+    #Download .down-bg .left {
+        padding-bottom: 40px;
+    }
+
+    #Download .right p {
+        padding-right: 6px;
+    }
+}

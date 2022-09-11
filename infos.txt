@@ -1,0 +1,20 @@
+    --poppins: 'Poppins', sans-serif;
+    --regular: 400;
+    --medium: 500;
+    --semibold: 600;
+    --bold: 700;
+    --extrabold: 800;
+
+    --dark: #222222;
+    --gray: #888888;
+    --light-black: #333333;
+    --orange: #FF3A44;
+    --white: #fff;
+    --primerytxtcol: #D8D8D8;
+    --footertxtcol: #E6E6E6;
+    --slidetxtcol: #C6C6C6;
+
+    --greenbg: #0B4C61;
+    --lightgreenbg: #0C5F79;
+    --secondarylightgreen: #0489CA;
+    --yellow: #FFBD2F;
